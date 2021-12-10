@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, I'm Anuar 👋
 
-<!--
-**anuarbv/anuarbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner frontend developer based in Kazakhstan. Working with HTML/CSS, JavaScript, ReactJS, Bootstrap. Always focused on crafting great web experiences.  Also fond of photography, drawing and 3D modeling.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on pet-project
+- 🌱 I’m currently learning ReactJS
+- 🤔 I’m looking for help with my repo
+- 💬 Ask me about anything
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to contact me: 
+- [Email](mailto:buranbayev.work@gmail.com)
+- [Twitter](https://twitter.com/AnuarBuranbayev)
+- [Instagram](https://instagram.com/anuar_bv)
