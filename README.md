@@ -1,6 +1,6 @@
 ## Hello, I'm Anuar 👋
 
-I am a beginner frontend developer based in Kazakhstan. Working with HTML/CSS, JavaScript, ReactJS, Bootstrap. Always focused on crafting great web experiences.  Also fond of photography, drawing and 3D modeling.
+I am a frontend developer based in Kazakhstan. Working with HTML/CSS, JavaScript, ReactJS/VueJS, Bootstrap and many others. Always focused on crafting great web experiences.  Also fond of photography, drawing and 3D modeling.
 
 - 🔭 I’m currently working on pet-project
 - 🌱 I’m currently learning ReactJS
